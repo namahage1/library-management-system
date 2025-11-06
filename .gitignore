@@ -1,0 +1,18 @@
+# Maven target folder (compiled classes, JARs, etc.)
+/target/
+
+# Maven Wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+.vscode/
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db

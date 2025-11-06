@@ -1,0 +1,16 @@
+com\library\system\repository\LoanRepository.class
+com\library\system\service\BorrowerService.class
+com\library\system\repository\BorrowerRepository.class
+com\library\system\model\Loan.class
+com\library\system\config\CorsConfig.class
+com\library\system\controller\BorrowerController.class
+com\library\system\model\Loan$LoanStatus.class
+com\library\system\model\Book.class
+com\library\system\repository\BookRepository.class
+com\library\system\service\BookService.class
+com\library\system\config\DataInitializer.class
+com\library\system\LibraryManagementSystemApplication.class
+com\library\system\controller\BookController.class
+com\library\system\service\LoanService.class
+com\library\system\controller\LoanController.class
+com\library\system\model\Borrower.class

@@ -1,0 +1,15 @@
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\config\CorsConfig.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\repository\BorrowerRepository.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\controller\BorrowerController.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\config\DataInitializer.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\model\Borrower.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\controller\LoanController.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\LibraryManagementSystemApplication.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\service\BookService.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\model\Book.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\repository\BookRepository.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\service\LoanService.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\service\BorrowerService.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\controller\BookController.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\repository\LoanRepository.java
+C:\Users\kasum\library-management-system\src\main\java\com\library\system\model\Loan.java
